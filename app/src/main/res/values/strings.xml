@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DynamicSlider</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="unit_left_arrow_icon">&#8656;</string>
+    <string name="unit_right_arrow_icon">&#8658;</string>
+    <string name="icon_star_active">&#x2605;</string>
+    <string name="dedicatedtelephonelineavailable_icon">&#xe658;</string>
+    <color name="darkblue">#007183</color>
+</resources>
